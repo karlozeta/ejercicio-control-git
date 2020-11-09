@@ -40,11 +40,11 @@ class MainPoster extends StatelessWidget {
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
       children: <Widget>[
-        Text('Telenovelesco', style: TextStyle(color: Colors.white, fontSize: 10.0),),
+        Text('Telenovelas', style: TextStyle(color: Colors.white, fontSize: 10.0),),
         Icon(Icons.fiber_manual_record, color: Colors.red, size: 7.0),
-        Text('Suspenso Insostenible', style: TextStyle(color: Colors.white, fontSize: 10.0),),
+        Text('Suspenso', style: TextStyle(color: Colors.white, fontSize: 10.0),),
         Icon(Icons.fiber_manual_record, color: Colors.red, size: 7.0),
-        Text('De suspenso', style: TextStyle(color: Colors.white, fontSize: 10.0),),
+        Text('Accion', style: TextStyle(color: Colors.white, fontSize: 10.0),),
         Icon(Icons.fiber_manual_record, color: Colors.red, size: 7.0),
         Text('Adolecentes', style: TextStyle(color: Colors.white, fontSize: 10.0),),
       ],
