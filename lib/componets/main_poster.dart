@@ -27,7 +27,7 @@ class MainPoster extends StatelessWidget {
           height: 350.0,
           decoration: BoxDecoration(
               gradient: LinearGradient(
-                  colors: <Color>[Colors.black38, Colors.black],
+                  //colors: <Color>[Colors.black38, Colors.black],
                   begin: Alignment.center,
                   end: Alignment.bottomCenter)),
         ),
